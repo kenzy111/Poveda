@@ -1,0 +1,220 @@
+
+.navbar{
+    border-bottom: rgb(122, 220, 250) 3px solid;
+    opacity: 0.9;
+}
+.p-1{
+    margin-top: -24px;
+}
+.card{
+    width: 100%;
+    margin-left: 800px;
+    margin-top: -440px;
+}
+#home-section{
+    background-image: url(./image/tv\ show02\ \(1\).png); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 840px;
+}
+#home-section1{
+    background-image: url(./image/next\ 3.png); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 840px;
+}
+#home-section2{
+    background-image: url(./image/next\ 2.png); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 840px;
+}
+#home-section3{
+    background-image: url(./image/next\ 1.png); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 840px;
+}
+.div{
+    padding-top: 200px;
+    color: white;
+}
+.div1{
+    padding-top: 400px;
+    color: rgb(238, 234, 234);
+}
+.div2{
+    padding-top: 400px;
+    color: rgb(238, 234, 234);
+}
+.div3{
+    padding-top: 400px;
+    color: rgb(238, 234, 234);
+}
+.cal{
+    font-size: 60px;
+}
+.cal1{
+    font-size: 90px;
+}
+.cal2{
+    width: 100%;
+    font-size: 120px;
+    font-weight: 600;
+}
+.cal3{
+    width: 100%;
+    font-size: 120px;
+    font-weight: 600;
+}
+.cal4{
+    width: 100%;
+    font-size: 120px;
+    font-weight: 600;
+}
+.bmt{
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid white;
+    color: white;
+    border-radius: 50px;
+    padding: 19px;
+    margin-top: 20px;
+}
+.bmt1{
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid black;
+    color: black;
+    border-radius: 50px;
+    padding: 19px;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.mod{
+    padding-top: 20px;
+}
+#show-case{
+    background-color: rgb(199,206,201);
+    height: 60rem;
+}
+.case{
+    margin-left: -50px;
+    padding-top: 150px;
+}
+.text{
+    margin-left: 90px;
+    margin-top: 20px;
+    font-size: 35px;
+}
+.text1{
+    margin-left: 120px;
+    margin-top: 20px;
+    font-size: 35px;
+}
+.show{
+    margin-top: 100px;
+}
+.show1{
+    padding-left: 410px;
+    margin-top: -522px;
+}
+.show2{
+    padding-left: 820px;
+    margin-top: -522px;
+}
+#about{
+    background-color: rgb(219,226,221);
+    height: 48rem;
+}
+.img{
+    padding-left: 700px;
+    margin-top: -600px;
+}
+.bmt2{
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid white;
+    color: white;
+    border-radius: 50px;
+    padding: 19px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#about1{
+    color: white;
+    background-color: rgb(72,83,66);
+    height: 48rem;
+}
+.abt{
+    background-color: rgb(39, 48, 34);
+    color: white;
+    padding: 100px;
+}
+.ht{
+    font-weight: 700;
+    font-size: 50px;
+}
+.pam{
+    width: 40%;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+#follow{
+    background-color: rgb(219,226,221);
+    padding-top: 150px;
+    height: 55rem;
+}
+.img2{
+    padding-top: 90px;
+}
+.ig{
+    margin-left: 10px;
+}
+.ig1{
+    margin-left:768px;
+    margin-top: -400px;
+}
+.bm{
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid black;
+    color: black;
+    border-radius: 50px;
+    padding: 20px;
+    margin-left: 500px;
+    margin-top: 20px;
+}
+#sub{
+    background-color: rgb(72,83,66);
+    height: 30rem;
+}
+.sub1{
+    padding-top: 100px;
+}
+.pop{
+    width: 35%;
+}
+.sub2{
+    margin-left: 600px;
+    margin-top: -110px;
+}
+.btn4{
+    border-radius: 50px;
+    border: 5px solid rgba(255, 255, 255, 0.658);
+    background-color: rgba(20, 20, 20, 0.234);
+    color: white;
+}
+.man{
+    padding-left: 550px;
+    margin-top: -60px;
+    width: 40%;
+}
+.way{
+    padding-left: 850px;
+    margin-top: -120px;
+}
+.bok{
+   margin-top: 100px;
+}
+.py-3{
+    background-color: rgb(128, 128, 144);
+    height: 25rem;
+    
+}
